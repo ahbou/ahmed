@@ -13,3 +13,8 @@ I installed Windows XP on it! 😎
 I'm now in High school and some of my friends like computers too.
 
 I started smoking too.
+
+-----
+
+I installed VirtualDJ and I'm now the official DJ of a few parties.
+I like to mix electronic music.
