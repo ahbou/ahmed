@@ -12,3 +12,7 @@ The games feel so real and detailed! Also you can move in all directions now.
 -----
 
 I broke the PC, it won't boot 😔
+
+I don't have a computer now so I'm starting to play more and more games.
+
+Also I started learning Spanish at school.
