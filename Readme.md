@@ -16,3 +16,5 @@ The computer has Windows 95 and I spend so much time tweaking the Control Panel,
 
 I found a `Disassembler` program and when I open the Mario game with it, I'm able to see the code and the images!
 It's both weird and intriguing 🤩
+
+I managed to change the image of Mario by a very pixelated image, but it so fun to play with 👾
