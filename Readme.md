@@ -5,14 +5,11 @@ A commit based introduction.
 -------
 
 
-I'm Ahmed and I'm 9 years old now!
-I just got a PlayStation and it's **AWESOME!!** 
-The games feel so real and detailed! Also you can move in all directions now.
+I'm Ahmed and I'm 12 years old.
 
------
+I just got a new PC, it's a Sony and it has a Pentium III and an internet Modem.
+It's so fast!
 
-I broke the PC, it won't boot 😔
+It runs Windows 98 and it came with a few games pre-installed but I'm not sure how to play them.
 
-I don't have a computer now so I'm starting to play more and more games.
-
-Also I started learning Spanish at school.
+I'm going to be careful with this one not to break it.
