@@ -5,9 +5,9 @@ A commit based introduction.
 -------
 
 
-I'm Ahmed and I'm 8 years old!
-I have Nintendo with Super Mario Bros, The legend of Zelda and Duck hunt.
-I like to shoot at the TV to get the duck!
+I'm Ahmed and I'm 9 years old now!
+I just got a PlayStation and it's **AWESOME!!** 
+The games feel so real and detailed! Also you can move in all directions now.
 
-Also I just got a computer for my birthday, a Compaq!
-But it doesn't have any games....
+I managed to install Mario on the computer too! So I don't really use the Nintendo now.
+The computer has Windows 95 and I spend so much time tweaking the Control Panel, it's awesome too!
