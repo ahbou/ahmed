@@ -18,3 +18,7 @@ I started smoking too.
 
 I installed VirtualDJ and I'm now the official DJ of a few parties.
 I like to mix electronic music.
+
+----
+
+### I GRADUATED FROM HIGH SCHOOL 🥳🥳🥳🥳
