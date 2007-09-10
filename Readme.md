@@ -13,4 +13,6 @@ It's still a Sony but it's a Vayo. It's super light.
 
 I'm still on XP because windows Vista sucks.
 
+---
 
+I'm moving to France to study Information Technology 🇫🇷🇫🇷🇫🇷🇫🇷
