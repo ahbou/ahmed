@@ -7,6 +7,7 @@ A commit based introduction.
 
 I'm Ahmed and I'm 20 years old.
 
-I live in Grenoble in France and today I just experienced the first snow in my life.
+I just bought a Blackberry and this thing is amazing!
+It has email and the Blackberry Messenger app. 
 
-It went like this: 🌨❄️🙀😰🥶🥶🥶🥶🥶🥶☃️☃️☺️
+You can talk to anyone who has one in the world!
