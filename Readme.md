@@ -7,7 +7,8 @@ A commit based introduction.
 
 I'm Ahmed and I'm 20 years old.
 
-I just bought a Blackberry and this thing is amazing!
-It has email and the Blackberry Messenger app. 
+I'm studying Information Technology in Grenoble, France and I just started my internship at Michelin.
 
-You can talk to anyone who has one in the world!
+I'm making programs using VBA for Excel and Access.
+
+`My BBM PIN: 299833`
