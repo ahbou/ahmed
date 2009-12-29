@@ -5,15 +5,10 @@ A commit based introduction.
 -------
 
 
-I'm Ahmed and I'm 21 years old.
+I'm Ahmed and I'm 22 years old.
 
-I'm studying Information Technology in Grenoble, France and I just started my internship at Michelin.
-
-I'm making programs using VBA for Excel and Access.
+I just joined LVMH making internal web apps (yes that's a thing).
 
 `My BBM PIN: 299833`
 
 --- 
-
-
-Today I signed up for twitter 🐦
