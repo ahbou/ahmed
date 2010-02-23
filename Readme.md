@@ -7,14 +7,14 @@ A commit based introduction.
 
 I'm Ahmed and I'm 22 years old.
 
-I just joined LVMH making internal web apps (yes that's a thing).
+I'm interning at LVMH making internal web apps.
 
 `My BBM PIN: 299833`
 
 --- 
 
 
-Blackberry released their SDK for mobile which allows developers to make apps for blackberry.
+I released a restaurant app for Blackberry using their SDK.
+---
 
-
-I just made my first Blackberry app!
+I spent a ridiculous amount of time trying to replace my laptop, in the end I decided to buy a Macbook Pro 
