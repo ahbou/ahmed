@@ -5,16 +5,20 @@ A commit based introduction.
 -------
 
 
-I'm Ahmed and I'm 22 years old.
+I'm Ahmed and I'm 23 years old.
 
-I'm interning at LVMH making internal web apps.
+I'm interning at LVMH.
 
-`My BBM PIN: 299833`
+And today was my first day in the Digital division. 
+We're working on the very first iPad apps for the company employees.
 
 --- 
 
+I use a 13" Mackbook pro with 4GB of RAM.
 
-I released a restaurant app for Blackberry using their SDK.
+
 ---
 
-I spent a ridiculous amount of time trying to replace my laptop, in the end I decided to buy a Macbook Pro 
+I released a restaurant app for Blackberry using their SDK.
+
+`My BBM PIN: 299833`
