@@ -6,9 +6,13 @@ A commit based introduction.
 
 
 I'm Ahmed and I'm 23 years old.
+I have a Master's degree in Information Technology.
 
-I'm interning at LVMH in the Digital team. 
-We're working on the very first iPad apps for the company employees.
+I like to write code in C or C++ but I'm also learning Javascript and PHP on the side.
+
+I work at LVMH in the Digital team. 
+We're working on the very first iPad apps for Store managers.
+I'm using Objective-C at work.
 
 --- 
 
