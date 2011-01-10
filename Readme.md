@@ -14,6 +14,11 @@ I work at LVMH in the Digital team.
 We're working on the very first iPad apps for Store managers.
 I'm using Objective-C at work.
 
+----
+
+I was telling a guy in a Café about my job and he told me about his app idea.
+So now I'm making the very first Sidur for iPhone as a freelancer! (it's a jewish prayers book).
+
 --- 
 
 I use a 13" Mackbook pro with 4GB of RAM.
