@@ -16,8 +16,9 @@ I'm using Objective-C at work.
 
 ----
 
-I was telling a guy in a Café about my job and he told me about his app idea.
-So now I'm making the very first Sidur for iPhone as a freelancer! (it's a jewish prayers book).
+I was telling a guy in a Café about my job and he told me about his app idea. it's Sidur for iPhone! (a jewish prayers book).
+
+And today we shipped V1.0.
 
 --- 
 
