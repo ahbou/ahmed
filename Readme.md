@@ -8,17 +8,12 @@ A commit based introduction.
 I'm Ahmed and I'm 24 years old.
 I have a Master's degree in Information Technology.
 
-I like to write code in C or C++ but I'm also learning Javascript and PHP on the side.
+I like to write code in Objecive-C and I avoid using Java.
+I'm also decent at using Javascript/Jquery with PHP.
 
-I work at LVMH in the Digital team.
-Using Objective-C we just released MyStore: An iPad app for Store managers.
+Today I got a really big freelance project offer from My Bazar: The French private sales site.
 
-----
-
-I was telling a guy in a Café about my job and he told me about his app idea. it's Sidur for iPhone! (a jewish prayers book).
-
-And today we shipped V1.0.
-
+I decided to work on it full time.
 --- 
 
 I use a 13" Mackbook pro with 4GB of RAM.
