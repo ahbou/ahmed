@@ -14,6 +14,8 @@ I'm also decent at using Javascript/Jquery with PHP.
 
 I'm working as a freelancer for My Bazar, the French private sales site, making their iOS app.
 
+On my free time, I launched an iOS app for Morocco to find restaurant Menus.
+
 --- 
 
 I use a 13" Mackbook pro with 4GB of RAM.
