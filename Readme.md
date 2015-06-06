@@ -6,19 +6,22 @@ A commit based introduction.
 
 
 I'm Ahmed and I'm 26 years old.
-I'm living in Casablanca, Morocco 🇲🇦 with my Wife 💑
+I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑
 I have a Master's degree in Information Technology.
 
-I like to write code in Objecive-C and I avoid using Java.
-I'm also decent at using Javascript/Jquery with PHP.
+I mostly use Objective-C and Xcode but I'm starting to experiment with the new and shiny Swift.
+Bu I'm also decent at using Javascript/Jquery.
+I'm trying to learn Ruby on Rails.
 
-I'm working as a freelancer for My Bazar, the French private sales site, making their iOS app.
 
-On my free time, I launched Souwelni an iOS app for Morocco to find restaurant Menus.
+I mostly work as a consultant and I help my clients ship quality apps.
+
+On my free time, I maintain Souwelni an iOS app for Morocco to find restaurant Menus.
 
 --- 
 
-I use a 13" Mackbook pro with 4GB of RAM.
-
-And I just bought an iPhone 4. It's the most beautiful smartphone I've seen!
+I'm deep in the Apple ecosystem:
+* I use a 13" Mackbook pro.
+* I have an iPhone 5.
+* I just got an iPad mini.
 
