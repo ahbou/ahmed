@@ -5,8 +5,11 @@ A commit based introduction.
 -------
 
 
-I'm Ahmed and I'm 26 years old.
-I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑
+I'm Ahmed and I'm 28 years old.
+I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑.
+
+*** I'm smoke free for 24hours now! ***
+
 I have a Master's degree in Information Technology.
 
 I mostly use Objective-C and Xcode but I'm starting to experiment with the new and shiny Swift.
