@@ -6,9 +6,9 @@ A commit based introduction.
 
 
 I'm Ahmed and I'm 28 years old.
-I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑.
+I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑 and we just had a baby boy 👶🏻
 
-*** I'm smoke free for 24hours now! ***
+** I'm smoke free for 1 month now! **
 
 I have a Master's degree in Information Technology.
 
@@ -23,7 +23,7 @@ On my free time, I maintain Souwelni an iOS app for Morocco to find restaurant M
 
 --- 
 
-I'm deep in the Apple ecosystem:
+I'm deep in the Apple ecosystem™:
 * I use a 13" Mackbook pro.
 * I have an iPhone 5.
 * I just got an iPad mini.
