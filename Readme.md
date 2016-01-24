@@ -8,7 +8,7 @@ A commit based introduction.
 I'm Ahmed and I'm 28 years old.
 I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑 and we just had a baby boy 👶🏻
 
-** I'm smoke free for 1 month now! **
+** I'm smoke free for 4 months now! **
 
 I have a Master's degree in Information Technology.
 
@@ -20,6 +20,8 @@ I'm trying to learn Ruby on Rails.
 I mostly work as a consultant and I help my clients ship quality apps.
 
 On my free time, I maintain Souwelni an iOS app for Morocco to find restaurant Menus.
+
+I just made the top 200 indie developers macrumors list!
 
 --- 
 
