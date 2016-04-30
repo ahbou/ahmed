@@ -16,6 +16,7 @@ I mostly use Objective-C and Xcode but I'm starting to experiment with the new a
 
 I'm currently the iOS Lead at Prism.io where we're making screenshots suck less.
 
+Our screenshot editor just made it to the #1 spot on ProductHunt.
 
 I just made the top 200 indie developers macrumors list!
 
