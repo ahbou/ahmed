@@ -11,15 +11,9 @@ I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑 and 
 
 I have a Master's degree in Information Technology.
 
-I mostly use Objective-C and Xcode but I'm getting deeper in using Swift.
-
-I'm currently the iOS Lead at Prism.io where we're making screenshots suck less.
-
-Our screenshot editor just made it to the #1 spot on ProductHunt.
-
-I just made the top 200 indie developers macrumors list!
-
-Today I'm taking a Swift training in Verona, Italy 🇮🇹 
+I just joined Gojugo as the technical lead.
+With the CTO, we are building a new way for contractors to find clients and vice versa.
+Our iOS app is 100% Swift too.
 
 --- 
 
