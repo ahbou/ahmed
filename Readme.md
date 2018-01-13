@@ -7,7 +7,7 @@ A commit based introduction.
 I'm Ahmed and I'm 30 years old.
 I'm an iOS engineer based in Casablanca, Morocco 🇲🇦 with my Wife 💑 and our 1 year old son 👶🏻
 
-**I'm smoke free for a year now!**
+**I'm smoke free for 3 years now!**
 
 I have a Master's degree in Information Technology.
 
@@ -16,6 +16,8 @@ I also enjoy using Ruby and Kotlin.
 
 I'm leading the development of a fully digital way to buy car insurance in Morocco and Africa at Wafa Assurance.
 The corporate world is `weird`
+
+I'm setting a goal for myself to read a book per month so at least 12 per year.
 
 --- 
 
