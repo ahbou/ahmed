@@ -17,7 +17,9 @@ I also enjoy using Ruby and Kotlin.
 I'm leading the development of a fully digital way to buy car insurance in Morocco and Africa at Wafa Assurance.
 The corporate world is `weird`
 
-I'm setting a goal for myself to read a book per month so at least 12 per year.
+I'm reading a book per month so at least 12 per year.
+
+I'm also trying to go jogging at leat once per week.
 
 --- 
 
