@@ -14,6 +14,8 @@ I have a Master's degree in Information Technology.
 I spend most of my day in Xcode and I'm advocating for a world of Swift everywhere.
 I also enjoy using Ruby and Kotlin.
 
+I'm in charge of improving Arabic support and the learning experience for Arabic users at Duolingo. 
+
 I'm reading a book per month so at least 12 per year.
 
 I'm also trying to go jogging at leat once per week.
