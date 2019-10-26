@@ -36,4 +36,4 @@ My wife and I went sky diving in the South of Morocco.
 It was as thrilling as dropping a database in production 😁
 
 
-Checkout the [commits history] (https://github.com/ahbou/ahmed/commits/master) to relive my journey.
+Checkout the [commits history](https://github.com/ahbou/ahmed/commits/master) to relive my journey.
